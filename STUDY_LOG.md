@@ -14,3 +14,7 @@ Personal learning log — short daily notes on what I'm working through.
 ## 2026-05-19
 - Firestore: composite indexes for `where + orderBy` queries.
 - Cost-control: subscription guard with where + limit + view gate.
+
+## 2026-05-21
+- First weekly retro — shipped 4 small features, dropped 1 idea.
+- Tried Vitest watch mode + happy-dom for component tests.
