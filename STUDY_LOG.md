@@ -18,3 +18,7 @@ Personal learning log — short daily notes on what I'm working through.
 ## 2026-05-21
 - First weekly retro — shipped 4 small features, dropped 1 idea.
 - Tried Vitest watch mode + happy-dom for component tests.
+
+## 2026-05-23
+- Electron + Vite: dev server vs packaged build differences.
+- Notes on `electron-builder` mas target for App Store distribution.
