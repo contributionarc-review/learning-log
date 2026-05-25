@@ -22,3 +22,7 @@ Personal learning log — short daily notes on what I'm working through.
 ## 2026-05-23
 - Electron + Vite: dev server vs packaged build differences.
 - Notes on `electron-builder` mas target for App Store distribution.
+
+## 2026-05-25
+- Framer Motion: layout animations vs presence — when to reach for each.
+- Tried `useReducedMotion` and audited keyframe usage.
